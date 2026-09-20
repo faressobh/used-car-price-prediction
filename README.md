@@ -1,4 +1,3 @@
-ر# 🚗 Used Car Price Prediction
 A Machine Learning web application that predicts the estimated price of used cars in Egyptian Pounds (EGP) based on their specifications.
 ## 📌 Overview
 This project uses an **XGBoost Regression** model to estimate used car prices from features such as brand, model, mileage, fuel type, transmission, engine capacity, body type, and manufacturing year.
